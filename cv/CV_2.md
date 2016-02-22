@@ -1,6 +1,6 @@
 #### 简历（陶然）
 ### 联系方式
-![aa]() 
+
 手机：18805925583 邮箱：xmusaber@163.com
 QQ/微信号：932191671/cute_ranran1992
 
@@ -41,7 +41,7 @@ QQ/微信号：932191671/cute_ranran1992
 
 以下均为我熟练使用的技能
 
-- Java：JavaEE/多线程/并发/JDBC/JVM基本原理/JMM内存模型/Java消息中间件等
+- Java：JavaEE/多线程/并发/JDBC/JVM基本原理/常用设计模式
 - 操作系统：MacOS X & Linux，熟悉常用linux操作和服务器部署
 - Web开发：Java/JSP/Servlet/Ajax/Javascript/Html/CSS
 - Web框架：MVC/SSH/SpringMVC/Spring/Struts/Hibernate
