@@ -60,6 +60,7 @@ QQ/微信号：932191671/cute_ranran1992
 - [6种单例模式的实现以及double check的剖析](http://www.tinymood.com/archives/1195.html)
 - [深入理解Java注解 - 注解处理器](http://www.tinymood.com/archives/1213.html)
 - [Eclipse下maven3安装配置发布运行实战](http://www.tinymood.com/archives/674.html)
+- [九种内部排序算法的Java实现及其性能测试](http://www.tinymood.com/archives/1247.html)
 
 ### 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
