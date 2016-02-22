@@ -1,6 +1,6 @@
 #### 简历（陶然）
 ### 联系方式
-
+![aa]() 
 手机：18805925583 邮箱：xmusaber@163.com
 QQ/微信号：932191671/cute_ranran1992
 
@@ -8,7 +8,6 @@ QQ/微信号：932191671/cute_ranran1992
 
  - 陶然/男/1992
  - 硕士在读/厦门大学计算机科学系 
- - 微博：[@CampanulaceaeXMU](http://weibo.com/u/1662536394)
  - 技术博客：[http://www.tinymood.com](http://www.tinymood.com)
  - Github: [https://github.com/Lemonjing](https://github.com/Lemonjing)
  - 微信公众号：xiaoqingxu
@@ -28,29 +27,29 @@ QQ/微信号：932191671/cute_ranran1992
  - Git版本控制，Maven构建，框架采用SpringMVC，MySQL5.6＋Jetty9
  - 腾讯云支持的高效视频管理和点播服务
 - SSH构建的JavaWeb彩票网站
- - Git版本控制 MySQL＋Tomcat
-- simple-threadpool
-  - Java实现的简单线程池
-- easy-ioc
- - Java实现的IoC容器
+ - Git版本控制 MySQL5.6＋Tomcat7
 - mvc-mario
  - Maven项目构建，Git工作流开发的一个简单MVC框架
+- easy-ioc
+ - Java实现的IoC容器
 - easy-http
  - Java实现的http服务器
-
+- simple-threadpool
+  - Java实现的简单线程池
 
 #### 技能清单
 
 以下均为我熟练使用的技能
 
-- Java：熟悉JavaEE相关技术/注解/多线程/并发/Java消息中间件
+- Java：JavaEE/多线程/并发/JDBC/JVM基本原理/JMM内存模型/Java消息中间件等
 - 操作系统：MacOS X & Linux，熟悉常用linux操作和服务器部署
 - Web开发：Java/JSP/Servlet/Ajax/Javascript/Html/CSS
 - Web框架：MVC/SSH/SpringMVC/Spring/Struts/Hibernate
 - 前端框架：Bootstrap/AngularJS/HTML5
 - 数据库相关：MySQL/SQLyog/Navicat
-- 版本管理、项目构建：SVN/Git，Maven
+- 版本管理、项目构建：SVN/Git，Maven3
 - 单元测试：Junit/TestNG
+- 数据处理：XML/JSON等配置文件的解析
 - 云和开放平台：SAE/BAE/阿里云/腾讯云/微信应用开发
 - 其他：MarkDown写作/Google代码规范/Github开源社区活跃者
 
